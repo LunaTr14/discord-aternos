@@ -1,0 +1,2 @@
+python-aternos==3.0.4
+discord-py-interactions==5.8.0
